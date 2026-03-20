@@ -1,0 +1,7 @@
+opencv-python
+flask
+flask-cors
+face-recognition
+ultralytics
+torch
+numpy
