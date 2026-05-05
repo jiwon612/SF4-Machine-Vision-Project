@@ -5,6 +5,13 @@
 
 <br>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/43c83314-66af-42e3-86ca-66a57ad8b8e1" width="45%" />
+  <img src="https://github.com/user-attachments/assets/299d8630-205a-4ded-8c40-4728151cac85" width="45%" />
+</div>
+
+<br>
+
 ## 📹 시연 영상
 
 
